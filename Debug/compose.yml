@@ -1,8 +1,0 @@
-version: '3'
-
-services:
-  python-app:
-    build: .
-    # volumesを削除またはコメントアウト
-    # volumes:
-    #   - .:/usr/src/app
